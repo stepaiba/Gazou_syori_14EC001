@@ -1,1 +1,1 @@
-# gazousyori1
+# 課題はIssuesの方にあります。
